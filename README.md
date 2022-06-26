@@ -1,4 +1,3 @@
-
 # Budget Tracker
 
 - A simple app used to budget by adding and subtracting funds
@@ -10,9 +9,11 @@
 - Mongoose is utlized to create CRUD operations for commonly used social media features such as adding a user, deleting a user, updating a user, adding thoughts, etc.
 - Server built using Express.js
 - Progressive Web Application using a Service Worker andIndexDB
+
 ## Installation
 
 Tools used include:
+
 - Node.js
 - MongoDB
 - Mongoose
@@ -26,6 +27,7 @@ Run the following command to install dependencies
 ```
 
 Run the following command to start the server
+
 ```bash
   npm start
 
@@ -45,7 +47,7 @@ https://mongoosejs.com/docs/guide.html
 Express.js Documentation
 https://expressjs.com/
 
-##Deployment
+## Deployment
 
 Deployed with Heroku at [insert heroku link here]
 
@@ -53,8 +55,6 @@ Deployed with Heroku at [insert heroku link here]
 
 ![Budget Tracker Application Preview](budget-tracker-screenshot.png)
 
-
 ## Authors
 
 - [Brittany Ganser](https://github.com/bganser15)
-
